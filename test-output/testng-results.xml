@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31091" started-at="2018-03-30T12:59:26Z" finished-at="2018-03-30T12:59:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31091" started-at="2018-03-30T12:59:26Z" finished-at="2018-03-30T12:59:57Z">
+      <class name="webtable.Handlingwebtables">
+        <test-method status="PASS" signature="asdf()" name="asdf" duration-ms="31063" started-at="2018-03-30T12:59:26Z" finished-at="2018-03-30T12:59:57Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
