@@ -22,7 +22,7 @@ public class Scrollpage {
 	
 	//js.executeScript("window.scrollBy(0,500)");
 	
-	js.executeScript("scroll(0,500)");
+	js.executeScript("window.scrollBy(0,500)");
 	
 	}
 }
